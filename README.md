@@ -12,7 +12,7 @@ Ultimately, our objective is to provide valuable guidance to app developers, emp
 
 ##🛠 Tools Used
 
-=Excel
+=SQL
 =Power BI
 
 
